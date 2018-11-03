@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Do an nhap mon cong nghe phan mem
+=======
+Do an nhap mon cong nghe phan mem
+Hoang Duc Min
+>>>>>>> 34e8017d16f76288c26d188af3a1b1a8d49e9d45
